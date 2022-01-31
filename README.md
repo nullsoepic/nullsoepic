@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning GameDev 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on discord.js bots
 
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
 
@@ -34,7 +34,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'nulldev.ml'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://nulldev.ml'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/nullsoepic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
