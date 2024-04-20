@@ -1,8 +1,8 @@
-<h1 align="left">Vibing | Null</h1>
+<h1 align="left">Vibing</h1>
 
 ###
 
-<p align="left">Hey, I'm not a fan of sharing my name so I usually go by Vibing or Null, and I'm a professional dumbass</p>
+<p align="left">I mess around and code stuff<br>Smart enough to know better, stupid enough to do it anyway</p>
 
 ###
 
